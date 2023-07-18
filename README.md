@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
 
-<img align = "right" alt="Coding" margin="0" width="50%" src="https://i.gifer.com/JXA0.gif">  
+![](https://github.com/MusadiqPasha/JXA0.gif)
+<a href="" ><img align = "right" alt="Coding" margin="0" width="50%" src="https://i.gifer.com/JXA0.gif"/></a>  
 
 <br>
 <p align="left">💻 Im interested in Machine Learning and Reinforcement Learning </p>
@@ -21,7 +22,8 @@
 ## 🔧 Tools
 
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" style="border-radius: 20px;" /></a><a href=""><img alt="" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" style="border-radius: 20px;" /</a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" style="border-radius: 20px;" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" style="border-radius: 20px;" /</a>
 
 
 # GitHub Stats
