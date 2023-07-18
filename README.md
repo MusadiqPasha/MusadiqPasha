@@ -22,9 +22,7 @@
 ## 🔧 Tools
 
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" style="border-radius: 20px;" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" style="border-radius: 20px;" /</a>
-
+<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" style="border-radius: 20px;" /></a>
 
 # GitHub Stats
 
