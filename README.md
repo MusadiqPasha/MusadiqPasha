@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
 
-![]((JXA0(1).gif))
+![Alt text]((JXA0(1).gif))
 <a href="" ><img align = "right" alt="Coding" margin="0" width="50%" src="https://i.gifer.com/JXA0.gif"/></a>  
 
 <br>
