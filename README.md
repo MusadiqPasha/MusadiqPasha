@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://github.com/MusadiqPasha/JXA0(1).gif)
+![](https://github.com/MusadiqPasha/JXAO(1).gif)
