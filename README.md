@@ -31,6 +31,8 @@
 
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="MusadiqPasha" /></p>
 
+<p align="right" width="20%"> <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="MusadiqPasha" /> </p>
+
 
 ## Coding platforms
 
