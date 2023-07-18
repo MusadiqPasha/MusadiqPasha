@@ -4,7 +4,7 @@
 <p align="left">📚 Exploring Generative Learning  </p>
 <p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
 <p align="left"> 📫 How to reach me : 
-<a href="kmusadiqpasha@gmail.com"><img align ="center" src="https://image.similarpng.com/thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height="" width="40" </a> <a href="https://www.linkedin.com/in/kmusadiqpasha" target="blank"><img align="center" src="" alt="MusadiqPasha" height="30" width="40" /></a></a></p>
+<a href="kmusadiqpasha@gmail.com"><img align ="center" src="https://static.vecteezy.com/system/resources/thumbnails/021/514/701/small/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" height="" width="40" </a> <a href="https://www.linkedin.com/in/kmusadiqpasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MusadiqPasha" height="30" width="40" /></a></a></p>
 
 
 # Languages
