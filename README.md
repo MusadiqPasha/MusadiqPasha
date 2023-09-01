@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
 <img align = "right"  width="40%"src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif">
 <p align="left">💻 I'm interested in Machine Learning and Reinforcement Learning </p>
-<p align="left">📚 Exploring Generative Learning  </p>
 <p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
 <p align="left"> 📫 How to reach me : 
 <a href="kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a> 
