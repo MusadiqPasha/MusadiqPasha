@@ -32,8 +32,3 @@
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="MusadiqPasha" /></p>
 
 
-## Coding platforms
-
-<a href = "https://www.hackerrank.com/kmusadiqpasha?hr_r=1" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
-<a href = "https://leetcode.com/kmusadiqpasha/"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-
