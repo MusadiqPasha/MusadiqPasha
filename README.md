@@ -10,7 +10,7 @@
 <p align="left" width="25%"> <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="MusadiqPasha" /> </p>
 
 # Languages
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 20px;" /></a><a href=""><img alt="" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 20px;" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px;"/></a><a href=""><a href=""><img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 20px;" /></a><a href=""><img alt="" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 20px;" /></a>
 
 
 ## 🧰 Libraries and Frameworks
