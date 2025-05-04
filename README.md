@@ -7,7 +7,7 @@
       <h3>📈 I’m looking to collaborate on Computer Projects and Research</h3>
       <h3>📫 Reach me at:</h3>
       <ul>
-        <li>Email: <a href="mailto:kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a></li>
+        <li><a href="mailto:kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a></li>
         <li><a href="https://musadiqpasha.netlify.app" target="_blank">Portfolio Website</a></li>
         <li><a href="https://www.linkedin.com/in/kmusadiqpasha" target="_blank">LinkedIn</a></li>
       </ul>
