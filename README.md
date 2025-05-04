@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
 
-<p align="center">
-  <img src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif" width="300" />
-</p>
-
-<p align="center">
-💻 I'm interested in Machine Learning <br>
-📈 I’m looking to collaborate on Computer Projects and Research <br>
-📫 Reach me at:
-  <a href="mailto:kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a> |
-  <a href="https://musadiqpasha.netlify.app" target="_blank">Portfolio Website</a> |
-  <a href="https://www.linkedin.com/in/kmusadiqpasha" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>💻 I'm interested in Machine Learning</h3>
+      <h3>📈 I’m looking to collaborate on Computer Projects and Research</h3>
+      <h3>📫 Reach me at:</h3>
+      <ul>
+        <li>Email: <a href="mailto:kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a></li>
+        <li><a href="https://musadiqpasha.netlify.app" target="_blank">Portfolio Website</a></li>
+        <li><a href="https://www.linkedin.com/in/kmusadiqpasha" target="_blank">LinkedIn</a></li>
+      </ul>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif" alt="GIF" width="250" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
