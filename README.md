@@ -56,10 +56,16 @@
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" width = "70%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="MusadiqPasha" /></p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha&" alt="MusadiqPasha" /></p>
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="MusadiqPasha" /></p>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
