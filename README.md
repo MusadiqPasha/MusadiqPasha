@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
+# 👋 Hey there! I'm Musadiq
+
+
+---
 
 <table>
   <tr>
