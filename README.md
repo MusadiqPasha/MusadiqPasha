@@ -65,7 +65,3 @@
 <p align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
