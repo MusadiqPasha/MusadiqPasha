@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
-<img align = "right"  width="40%" height="50%" src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif">
+<img align = "right"  src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif">
 <p align="left">💻 I'm interested in Machine Learning </p>
 <p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
 <p align="left"> 📫 How to reach me : 
