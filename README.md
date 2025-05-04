@@ -1,38 +1,69 @@
 <h1 align="center">Hi 👋, I'm Musadiq Pasha</h1>
-<img align = "right"  src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif">
-<p align="left">💻 I'm interested in Machine Learning </p>
-<p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
-<p align="left"> 📫 How to reach me : 
-<a href="https://musadiqpasha.netlify.app">Portfolio Website</a> 
-<a href="kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a> 
-  
-<a href="https://www.linkedin.com/in/kmusadiqpasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MusadiqPasha" height="30" width="40" /></a></a></p>
 
-<p align="left" width="25%"> <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="MusadiqPasha" /> </p>
+<p align="center">
+  <img src="https://github.com/MusadiqPasha/MusadiqPasha/blob/main/main-gif.gif" width="300" />
+</p>
 
-# Languages
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20px;"/></a><a href="">
-<img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px;"/></a><a href=""><a href=""><img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 20px;" /></a><a href=""><img alt="" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 20px;" /></a>
+<p align="center">
+💻 I'm interested in Machine Learning <br>
+📈 I’m looking to collaborate on Computer Projects and Research <br>
+📫 Reach me at:
+  <a href="mailto:kmusadiqpasha@gmail.com">kmusadiqpasha@gmail.com</a> |
+  <a href="https://musadiqpasha.netlify.app" target="_blank">Portfolio Website</a> |
+  <a href="https://www.linkedin.com/in/kmusadiqpasha" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musadiqpasha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## 🧰 Libraries and Frameworks
+---
 
-<a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius: 20px;"/></a><a href=""><img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="border-radius: 20px;"/></a>
+## 🧠 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Libraries & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
 
 ## 🔧 Tools
 
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 20px;"/></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" style="border-radius: 20px;" /></a>
-<a href=""><img alt="" src="https://miro.medium.com/v2/resize:fit:25/1*6Dhu1H4t028lOGbaZuyRCw.png" style="border-radius: 20px;" /></a>
+---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" width = "70%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="MusadiqPasha" /></p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha&" alt="MusadiqPasha" /></p>
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="MusadiqPasha" /></p>
-
-
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
