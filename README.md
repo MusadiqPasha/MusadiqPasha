@@ -59,6 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="GitHub Stats" />
+  
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MusadiqPasha&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 5%;"/>
 </p>
+
