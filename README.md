@@ -16,7 +16,7 @@
 - 💼 https://www.linkedin.com/in/kmusadiqpasha  
 - 🧠 LeetCode Knight (1250+ problems solved)  
 
----
+
 
 ## 🧠 About Me  
 
@@ -27,7 +27,7 @@ I work at the intersection of **Machine Learning, Full-Stack Development, and Sy
 - 📄 Springer publication  
 - 📊 Strong in DSA & problem solving  
 
----
+
 ## ⚙️ Tech Stack  
 
 <table>
@@ -69,7 +69,6 @@ I work at the intersection of **Machine Learning, Full-Stack Development, and Sy
   <img src="https://komarev.com/ghpvc/?username=musadiqpasha&color=0e75b6&style=flat" />
 </p>
 
----
 
 ## ⚡ Currently  
 
