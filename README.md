@@ -53,7 +53,7 @@ I'm a CSE-AIML graduate currently working as a **Software Development Intern**, 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=4" />
 
 ### 🛠️ Tools & Others
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,c,cpp,java,pandas,numpy&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,vscode,cpp,pandas,numpy&perline=6" />
 
 </td>
 </tr>
