@@ -15,17 +15,17 @@
 - 📧 kmusadiqpasha@gmail.com
 - 🌍 https://musadiqpasha.vercel.app/
 - 💼 https://www.linkedin.com/in/kmusadiqpasha
-- 🧠 LeetCode Knight (1250+ problems solved)
+- 🧠 Knight @ LeetCode
 
 ---
 
 ## 🧠 About Me
 
-I'm a CSE-AIML graduate currently working as a **Software Development Intern**, with a strong background across **Machine Learning, Full-Stack Development, and Systems Design**.
+I'm a CSE-AIML graduate currently working as a **Software Development Intern**, with a strong background across **Machine Learning, and Full-Stack Development**.
 
 - 💻 Building production-grade software in a real-world engineering team
 - 🔬 Research: Explainable AI, GNNs, Multi-modal ML
-- 🏗️ Full-stack apps with APIs, authentication & DB design
+- 🏗️ Full-stack apps
 - 📄 Springer publication
 - 📊 Strong DSA foundation
 
@@ -77,9 +77,9 @@ I'm a CSE-AIML graduate currently working as a **Software Development Intern**, 
 ## ⚡ Currently
 
 - 💼 Working as a Software Development Intern
-- 📚 Deep Learning, Transformers, Diffusion Models
-- 🧠 Research in Explainable GNNs
 - 🚀 Building AI-powered full-stack systems
+- 📚 Deep Learning, Transformers, Diffusion Models
+
 
 ---
 
