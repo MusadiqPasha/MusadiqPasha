@@ -15,7 +15,7 @@
 - 📧 kmusadiqpasha@gmail.com
 - 🌍 https://musadiqpasha.vercel.app/
 - 💼 https://www.linkedin.com/in/kmusadiqpasha
-- 🧠 Knight @ LeetCode
+- 🧠 Knight @ LeetCode https://leetcode.com/u/kmusadiqpasha
 
 ---
 
