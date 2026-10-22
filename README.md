@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/kmusadiqpasha"><img src="https://img.shields.io/badge/LinkedIn-kmusadiqpasha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/kmusadiqpasha"><img src="https://img.shields.io/badge/LeetCode-Knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="https://scholar.google.com/citations?user=4vHgZr8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-3%20papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://orcid.org/0009-0007-6143-1102"><img src="https://img.shields.io/badge/ORCID-0009--0007--6143--1102-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://www.kaggle.com/musadiqpashak"><img src="https://img.shields.io/badge/Kaggle-musadiqpashak-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://huggingface.co/musadiqpasha"><img src="https://img.shields.io/badge/Hugging%20Face-musadiqpasha-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <a href="mailto:kmusadiqpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -59,7 +60,7 @@ Every project with a ✨ has a full write-up (problem, approach, results) on my 
 
 ## 📄 Research
 
-All three papers are on my **[Google Scholar profile](https://scholar.google.com/citations?user=4vHgZr8AAAAJ)**.
+All three papers are on my **[Google Scholar profile](https://scholar.google.com/citations?user=4vHgZr8AAAAJ)** and my **[ORCID record](https://orcid.org/0009-0007-6143-1102)**.
 
 | Paper | Venue |
 | --- | --- |
