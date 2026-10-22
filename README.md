@@ -63,7 +63,7 @@ All three papers are on my **[Google Scholar profile](https://scholar.google.com
 
 | Paper | Venue |
 | --- | --- |
-| [Beyond Loyalty and Betrayal: A Knowledge Graph-Enhanced RAG System for Crime Film Insights and Analysis](https://link.springer.com/chapter/10.1007/978-981-96-8898-2_39) | ICTIS 2025, Springer LNNS |
+| [Beyond Loyalty and Betrayal: A Knowledge Graph-Enhanced RAG System for Crime Film Insights and Analysis](https://link.springer.com/chapter/10.1007/978-981-96-8898-2_39) | ICTIS 2025 proceedings, Springer LNNS (published 2026) |
 | [Comparative Analysis of Traffic Accident Detection with Emphasis on Explainability of DL Models](https://ijaecs.iraj.in/paperdetails/21079) | IJAECS, Vol. 11, Issue 7, 2024 |
 | HyperGNNs for Multi-Modal Classification and Severity Analysis of Neurodegenerative Disorders | ICTIS 2026, Bangkok |
 
