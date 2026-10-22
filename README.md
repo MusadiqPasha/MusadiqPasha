@@ -11,6 +11,8 @@
 <a href="https://musadiqpasha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-musadiqpasha.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/kmusadiqpasha"><img src="https://img.shields.io/badge/LinkedIn-kmusadiqpasha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/kmusadiqpasha"><img src="https://img.shields.io/badge/LeetCode-Knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.kaggle.com/musadiqpashak"><img src="https://img.shields.io/badge/Kaggle-musadiqpashak-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://huggingface.co/musadiqpasha"><img src="https://img.shields.io/badge/Hugging%20Face-musadiqpasha-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <a href="mailto:kmusadiqpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://musadiqpasha.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 
@@ -40,6 +42,7 @@ Every project with a ✨ has a full write-up (problem, approach, results) on my 
 | ✨ [**Meme Virality with HGNNs**](https://musadiqpasha.vercel.app/projects/meme-virality-hgnn) | Predicts viral memes from image, text and metadata. Ensemble reaches ~69% accuracy | `Hypergraph NN` `CLIP` `BERT` | [![](https://img.shields.io/github/stars/MusadiqPasha/Multi-Modal-Meme-Virality-Prediction-using-HGNNs?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/Multi-Modal-Meme-Virality-Prediction-using-HGNNs) |
 | ✨ [**ReTweetify**](https://musadiqpasha.vercel.app/projects/retweetify) | Classifies, explains and rewrites Turkish hate-speech tweets | `mBERT` `LoRA` `SHAP` | [![](https://img.shields.io/github/stars/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation) |
 | ✨ [**Chess.com AI**](https://musadiqpasha.vercel.app/projects/chess-com-ai) | Reads the board from screenshots and plays Stockfish's best move | `OpenCV` `Stockfish` `Python` | [![](https://img.shields.io/github/stars/MusadiqPasha/Chess.com-AI?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/Chess.com-AI) |
+| ✨ [**File Transfer over Raw TCP**](https://musadiqpasha.vercel.app/projects/file-transfer) | Reliable file transfer built from scratch: chunking, SHA-256 checks, ACK/NACK retransmission and live dashboards | `Python` `TCP sockets` `Flask` | [![](https://img.shields.io/github/stars/MusadiqPasha/file_transfer?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/file_transfer) |
 | [**Face Recognition**](https://github.com/MusadiqPasha/Face_Recognition) | Face detection and recognition app with a simple GUI | `OpenCV` `Tkinter` | [![](https://img.shields.io/github/stars/MusadiqPasha/Face_Recognition?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/Face_Recognition) |
 | ✨ [**Sorting Visualizer**](https://musadiqpasha.vercel.app/projects/sorting-visualizer) | Watch 8 sorting algorithms run step by step. [Live demo](https://musadiqpasha.github.io/Sorting-Visualizer/) | `JavaScript` | [![](https://img.shields.io/github/stars/MusadiqPasha/Sorting-Visualizer?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/Sorting-Visualizer) |
 | [**FlowFree Solver**](https://github.com/MusadiqPasha/FlowFree-Solver) | Solves FlowFree puzzles automatically with the Z3 constraint solver | `Z3` `OpenCV` | [![](https://img.shields.io/github/stars/MusadiqPasha/FlowFree-Solver?style=flat&color=8B5CF6&label=%E2%98%85)](https://github.com/MusadiqPasha/FlowFree-Solver) |
@@ -47,7 +50,7 @@ Every project with a ✨ has a full write-up (problem, approach, results) on my 
 
 <div align="center">
 
-**[See all 18 projects, with search and filters →](https://musadiqpasha.vercel.app/#projects)**
+**[See all 19 projects, with search and filters →](https://musadiqpasha.vercel.app/#projects)**
 
 </div>
 
